@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/makaylatajalle/Desktop/Lab-8/Lab-8/Lab-8-Task",
+      "program": "/Users/makaylatajalle/Desktop/Lab-8/Lab-8/Lab-8-Task/build/Debug/outDebug"
+    }
+  ]
+}
